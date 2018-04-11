@@ -18,7 +18,7 @@ public class Elements {
 		elements.put("Fluorine", "works");
 		elements.put("Neon", "works");
 		elements.put("Sodium", "works");
-		elements.put("Magnesium", "works"); //asda
+		elements.put("Magnesium", "works"); //Editing this to confirm it works.
 		elements.put("Aluminum", "works");
 		elements.put("Silicon", "works");
 		elements.put("Phosphorus", "works");

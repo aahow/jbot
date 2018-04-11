@@ -112,6 +112,9 @@ public class SlackBot extends Bot {
 	 * @param event
 	 */
 	/*
+	 *
+	 *					I AM KEEPING THIS COMMENTED CODE FOR FURTHER USE WITH DM's. 
+	 *
 	 * @Controller(pattern = "(setup meeting)", next = "confirmTiming") public void
 	 * setupMeeting(WebSocketSession session, Event event) {
 	 * startConversation(event, "confirmTiming"); // start conversation
@@ -165,6 +168,8 @@ public class SlackBot extends Bot {
 	 * //@Controller(events = EventType.MESSAGE) //public void
 	 * onRecieveDM(WebSocketSession session, Event event) { //reply(session, event,
 	 * "hello I am aarons second attempt at a slack bot."); //}
+	 * 
+	 * 	I AM KEEPING THIS COMMENTED CODE FOR FURTHER USE WITH DM's. 
 	 * 
 	 */
 	@Controller(pattern = "(die)")
