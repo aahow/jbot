@@ -7,7 +7,7 @@ public class Elements {
 	public Map<String, String> elements = new HashMap<String, String>();
 
 	public void LoadElements() {
-		elements.put("Hydrogen", "Element Symbol: H. Hydrogen is ");
+		elements.put("Hydrogen", "Element Symbol: H. Hydrogen is the first element of the periodic table. ");
 		elements.put("Helium", "works");
 		elements.put("Lithium", "works");
 		elements.put("Beryllium", "works");
