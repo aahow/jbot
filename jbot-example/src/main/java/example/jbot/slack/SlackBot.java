@@ -16,7 +16,18 @@ import java.util.regex.Matcher;
 /*
  * Answers to questions
  * Maven: a build automation tool used in Java projects
- * Jar file: JAR is a Java Archive, file format that integrates files into one executable file. Similar to ZIP files.
+ *Jar file: JAR is a Java Archive, file format that integrates files into one executable file. Similar to ZIP files.
+ *
+ *
+ *
+ *
+ *Final project Idea: Slack Bot that gives you one of two exams inside a direct message.
+ *1. Integrates Slack
+ *2. Uses inheritance
+ *3. Reads from file/class?
+ *4. Calculates grade and shows student
+ *5. Writes Grade on exam taken, and USERID from the user that requested the exam.
+ *
  */
 
 
