@@ -13,6 +13,14 @@ import org.springframework.web.socket.WebSocketSession;
 
 import java.util.regex.Matcher;
 
+/*
+ * Answers to questions
+ * Maven: a build automation tool used in Java projects
+ * Jar file: JAR is a Java Archive, file format that integrates files into one executable file. Similar to ZIP files.
+ */
+
+
+
 /**
  * A simple Slack Bot. You can create multiple bots by just extending
  * {@link Bot} class like this one. Though it is recommended to create only bot

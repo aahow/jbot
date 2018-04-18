@@ -9,7 +9,7 @@ public class Elements {
 	public void LoadElements() {
 		elements.put("Hydrogen", "Element Symbol: H. Hydrogen is the first element of the periodic table. ");
 		elements.put("Helium", "Element Symbol: He. Helium is the second element of the periodic table. ");
-		elements.put("Lithium", "Element Symbol: H. Lithium is the third element of the periodic table. ");
+		elements.put("Lithium", "Element Symbol: Li. Lithium is the third element of the periodic table. ");
 		elements.put("Beryllium", "Element Symbol: H. Beryllium is the fourth element of the periodic table. ");
 		elements.put("Boron", "Element Symbol: H. Boron is the fifth element of the periodic table. ");
 		elements.put("Carbon", "Element Symbol: H. Carbon is the sixth element of the periodic table. ");
