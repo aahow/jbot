@@ -19,6 +19,7 @@ public class JBotApplication {
      *
      * @param args
      */
+    
     public static void main(String[] args) {
         SpringApplication.run(JBotApplication.class, args);
     }
